@@ -5,5 +5,5 @@ export interface CategoryInfo{
 
 export interface Category{
     nameCategory: string;
-    descritionCategory: string;
+    descriptionCategory: string;
 }
