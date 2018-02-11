@@ -5,7 +5,6 @@ import * as firebase from 'firebase/app';
 import { ProfileInfo } from '../models/profile-info';
 import { Category, CategoryInfo } from '../models/category';
 import { AngularFireDatabase, AngularFireList } from 'angularfire2/database';
-import { Action } from 'rxjs/Scheduler/Action';
 import { Observable } from 'rxjs/Observable';
 
 
